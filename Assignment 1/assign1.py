@@ -1,0 +1,10 @@
+no1 = float (input("Enter first number: \t"))
+no2 = float (input("Enter second number: \t"))
+
+print("\nAddition : ", no1 + no2)
+print("\nSubtraction : ", no1 - no2)
+print("\nMultiplication : ", no1 * no2)
+print("\nDivision : ", no1 / no2)
+print("\nModulus : ", no1 % no2)
+print("\nExponent : ", no1 ** no2)
+print("\nFloor Division : ", no1 // no2)
