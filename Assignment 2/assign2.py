@@ -208,7 +208,8 @@ print("Maximum:", max_value)  # Output: Maximum: 20
 
 
 
-"""Assignnment 5 """
+"""Assignnment 5 pattern prinnting
+"""
 # for i in range(1, 201):  # Loop from 1 to 200
 #     if i % 16 == 0:  
 #         print("Terminating program at:", i)
