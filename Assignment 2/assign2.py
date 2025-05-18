@@ -44,6 +44,10 @@
 # print("Changed Type : ",float_value)  # Output: 25.75
 
 
+
+"""Assignment 3 """
+
+
 # a = int(input("Enter first number(a) : "))
 # b = int(input("Enter second number(b) : "))
 
@@ -177,6 +181,8 @@ print("Maximum:", max_value)  # Output: Maximum: 20
 # print("math.floor(3.9) :", math.floor(3.9))   # Floor (Rounds down)
 
 
+
+"""Assignment  4"""
 # # Input from the user
 # year = int(input("Enter a year: "))
 
@@ -201,6 +207,8 @@ print("Maximum:", max_value)  # Output: Maximum: 20
 # print("Sum of first", n, "natural numbers (excluding multiples of 3):", total)
 
 
+
+"""Assignnment 5 """
 # for i in range(1, 201):  # Loop from 1 to 200
 #     if i % 16 == 0:  
 #         print("Terminating program at:", i)
